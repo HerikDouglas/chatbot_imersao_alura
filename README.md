@@ -22,11 +22,3 @@ Aqui está um exemplo de como interagir com o chatbot:
 ## Contribuição
 
 Este projeto é apenas para fins educacionais e não está aberto para contribuições externas.
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
-## Contato
-
-Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato pelo Discord da imersão.
