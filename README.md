@@ -1,6 +1,3 @@
-# chatbot_imersao_alura
-Projeto desenvolvido durante a aula 4 da Imersão em Inteligência Artificial 2ª edição da Alura 
-
 # Chatbot com Gemini
 
 Este Projeto foi desenvolvido durante a aula 4 da Imersão em Inteligência Artificial 2ª edição da Alura. Trata-se de um projeto de chatbot desenvolvido em Python usando a API do Gemini da Google para criar um chatbot simples.
